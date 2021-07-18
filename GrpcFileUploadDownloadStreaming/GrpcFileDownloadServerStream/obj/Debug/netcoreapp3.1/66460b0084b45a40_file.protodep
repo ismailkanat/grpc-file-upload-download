@@ -1,0 +1,3 @@
+obj\Debug\netcoreapp3.1/File.cs \
+obj\Debug\netcoreapp3.1/FileGrpc.cs: C:/Users/922632/.nuget/packages/grpc.tools/2.32.0/build/native/include/google/protobuf/empty.proto\
+ ../GrpcServer/Protos/file.proto
